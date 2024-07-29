@@ -1,4 +1,4 @@
-From 3a96102771b30e554f696db47ba691ef8ec3608e Mon Sep 17 00:00:00 2001
+From b6570caff2bdc4deb51481db9d2a74ae5fac2ed6 Mon Sep 17 00:00:00 2001
 From: Sakura286 <sakura286@outlook.com>
 Date: Fri, 31 May 2024 11:31:05 +0800
 Subject: [PATCH] add cstdint header
@@ -34,5 +34,5 @@ index 0000000..73c9664
 @@ -0,0 +1 @@
 +01-add-cstdint.patch
 -- 
-2.34.1
+2.45.2
 
