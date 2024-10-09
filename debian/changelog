@@ -1,0 +1,17 @@
+ros-humble-andino-slam (0.2.0-2bookworm) bookworm; urgency=high
+
+  * Improves andino_navigation package. (#224 <https://github.com/Ekumen-OS/andino/issues/224>)
+  * Contributors: Franco Cipollone
+
+ -- Franco Cipollone <franco.c@ekumenlabs.com>  Thu, 18 Jul 2024 16:00:00 -0000
+
+ros-humble-andino-slam (0.1.0-2bookworm) bookworm; urgency=high
+
+  * Adds convenient launch file for rviz in andino_slam package. (#145 <https://github.com/Ekumen-OS/andino/issues/145>)
+  * Updates logo and minor doc changes (#130 <https://github.com/Ekumen-OS/andino/issues/130>)
+  * Adds andino_slam package. (#82 <https://github.com/Ekumen-OS/andino/issues/82>)
+  * Contributors: Franco Cipollone
+
+ -- Franco Cipollone <franco.c@ekumenlabs.com>  Sun, 08 Oct 2023 16:00:00 -0000
+
+
